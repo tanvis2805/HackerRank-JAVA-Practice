@@ -1,1 +1,1 @@
-# HackerRank-JAVA-Practie
+# HackerRank-JAVA-Practice
